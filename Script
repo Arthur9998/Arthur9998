@@ -1,0 +1,5 @@
+choco install chrome-remote-desktop-chrome
+choco install office-tool
+choco install filezilla
+choco install webex-meetings
+choco install winrar
